@@ -1,5 +1,15 @@
-site_name: Fen Juan Hu
+site_name: Fenjuan Hu
+site_description:
 pages:
 - Home: index.md
 - About: about.md
-theme: readthedocs
+- Lake Restoration:
+    - 'Biomanipulation': 'restoration/biomanupulation.md'
+    - 'Nutrient reduction': 'restoration/nutrient.md'
+- Ecosystem Modelling:
+    - 'FABM': 'modelling/fabm.md'
+    - 'PCLake': 'modelling/pclake.md'
+- Social work:
+    - 'Chinese integration in Denmark': 'social_work/CSSA-Aarhus.md'
+    - 'International network': 'social_work/Network.md'
+theme: simplex
