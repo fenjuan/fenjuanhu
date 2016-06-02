@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Welcome to My webpage
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+This is my personal webpage, build with mkdocs
 
 ## Commands
 
@@ -8,6 +8,8 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs help` - Print this help message.
+* 'mkdocs gh-deploy --clean' - publish webpage on github
+
 
 ## Project layout
 
