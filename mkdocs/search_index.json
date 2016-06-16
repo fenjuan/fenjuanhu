@@ -2,23 +2,13 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to My webpage\n\n\nThis is my personal webpage, build with mkdocs\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n'mkdocs gh-deploy --clean' - publish webpage on github\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Fenjuan Hu\n\n\n![Profile]/imag/Webpagepic.jpg)\nEnvironmental Modeller\nData anayst\nPublic organization operator\nEnglish/Chinese/Danish intepreter", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-my-webpage", 
-            "text": "This is my personal webpage, build with mkdocs", 
-            "title": "Welcome to My webpage"
-        }, 
-        {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.  'mkdocs gh-deploy --clean' - publish webpage on github", 
-            "title": "Commands"
-        }, 
-        {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/#fenjuan-hu", 
+            "text": "![Profile]/imag/Webpagepic.jpg)\nEnvironmental Modeller\nData anayst\nPublic organization operator\nEnglish/Chinese/Danish intepreter", 
+            "title": "Fenjuan Hu"
         }, 
         {
             "location": "/about/", 
