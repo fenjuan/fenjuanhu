@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Fenjuan Hu\n\n\n\n\nSorry\n\n\nThe website is still under development, please visit my linkedin page for now!\n\n\nlinkedin page, \nFenjuan Hu\n\n\nEnvironmental Modeller\n\n\n\n\nEcosystem model development and application\n\n\nnutrient dynamic, phytoplankton, zooplankton, fish, macrophytes, in both water column and sediment domains\n\n\nHydrodynamic model application in both marine and freshwater systems\n\n\nDevelopment and application of state-of-art modelling frameworks\n\n\n\n\nGeographic Information System management(ArcGIS, MapInfo)\n\n\nData anayst\n\n\n\n\nData assimilation(experiment data) into model application\n\n\nData treatment and statistical analysis (Python packages, R, and Excel)\n\n\n\n\nPublic organization operator\n\n\n\n\nChairman(2015-2016) of CSSA(Chinese Students and Scholars Association)\n\n\nActivie member of Danmark-Kina organization\nWebpage\n\n\nBoard member of CHINANAO(Danish Chinese exchange organization)\n\n\n\n\nEnglish/Chinese/Danish intepreter", 
+            "text": "Fenjuan Hu\n\n\n\n\nThe website is still under development, please visit my linkedin page for now!\n\n\nlinkedin page, \nFenjuan Hu\n\n\nEnvironmental Modeller\n\n\n\n\nEcosystem model development and application\n\n\nnutrient dynamic, phytoplankton, zooplankton, fish, macrophytes, in both water column and sediment domains\n\n\nHydrodynamic model application in both marine and freshwater systems\n\n\nDevelopment and application of state-of-art modelling frameworks\n\n\n\n\nGeographic Information System management(ArcGIS, MapInfo)\n\n\nData anayst\n\n\n\n\nData assimilation(experiment data) into model application\n\n\nData treatment and statistical analysis (Python packages, R, and Excel)\n\n\n\n\nPublic organization operator\n\n\n\n\nChairman(2015-2016) of CSSA(Chinese Students and Scholars Association)\n\n\nActivie member of Danmark-Kina organization\nWebpage\n\n\nBoard member of CHINANAO(Danish Chinese exchange organization)\n\n\n\n\nEnglish/Chinese/Danish intepreter", 
             "title": "Home"
         }, 
         {
@@ -11,14 +11,14 @@
             "title": "Fenjuan Hu"
         }, 
         {
-            "location": "/#sorry", 
+            "location": "/#the-website-is-still-under-development-please-visit-my-linkedin-page-for-now", 
             "text": "", 
-            "title": "Sorry"
+            "title": "The website is still under development, please visit my linkedin page for now!"
         }, 
         {
-            "location": "/#the-website-is-still-under-development-please-visit-my-linkedin-page-for-now", 
-            "text": "linkedin page,  Fenjuan Hu", 
-            "title": "The website is still under development, please visit my linkedin page for now!"
+            "location": "/#linkedin-page-fenjuan-hu", 
+            "text": "", 
+            "title": "linkedin page, Fenjuan Hu"
         }, 
         {
             "location": "/#environmental-modeller", 
