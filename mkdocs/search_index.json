@@ -2,13 +2,43 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Fenjuan Hu\n\n\n\n\n\n\nEnvironmental Modeller\n\n\nData anayst\n\n\nPublic organization operator\n\n\nEnglish/Chinese/Danish intepreter", 
+            "text": "Fenjuan Hu\n\n\n\n\nEnvironmental Modeller\n\n\n\n\nEcosystem model development and application\n\n\nnutrient dynamic, phytoplankton, zooplankton, fish, macrophytes, in both water column and sediment domains\n\n\nHydrodynamic model application in both marine and freshwater systems\n\n\nDevelopment and application of state-of-art modelling frameworks\n\n\n\n\nGeographic Information System management(ArcGIS, MapInfo)\n\n\nData anayst\n\n\n\n\nData assimilation(experiment data) into model application\n\n\nData treatment and statistical analysis (Python packages, R, and Excel)\n\n\n\n\nPublic organization operator\n\n\n\n\nChairman(2015-2016) of CSSA(Chinese Students and Scholars Association)\n\n\nActivie member of Danmark-Kina organization\nWebpage\n\n\nBoard member of CHINANAO(Danish Chinese exchange organization)\n\n\n\n\nEnglish/Chinese/Danish intepreter\n\n\nThe website is still under development, please visit my linkedin page for now!\n\n\nlinkedin page, \nFenjuan Hu", 
             "title": "Home"
         }, 
         {
             "location": "/#fenjuan-hu", 
-            "text": "Environmental Modeller  Data anayst  Public organization operator  English/Chinese/Danish intepreter", 
+            "text": "", 
             "title": "Fenjuan Hu"
+        }, 
+        {
+            "location": "/#environmental-modeller", 
+            "text": "Ecosystem model development and application  nutrient dynamic, phytoplankton, zooplankton, fish, macrophytes, in both water column and sediment domains  Hydrodynamic model application in both marine and freshwater systems  Development and application of state-of-art modelling frameworks", 
+            "title": "Environmental Modeller"
+        }, 
+        {
+            "location": "/#geographic-information-system-managementarcgis-mapinfo", 
+            "text": "", 
+            "title": "Geographic Information System management(ArcGIS, MapInfo)"
+        }, 
+        {
+            "location": "/#data-anayst", 
+            "text": "Data assimilation(experiment data) into model application  Data treatment and statistical analysis (Python packages, R, and Excel)", 
+            "title": "Data anayst"
+        }, 
+        {
+            "location": "/#public-organization-operator", 
+            "text": "Chairman(2015-2016) of CSSA(Chinese Students and Scholars Association)  Activie member of Danmark-Kina organization Webpage  Board member of CHINANAO(Danish Chinese exchange organization)", 
+            "title": "Public organization operator"
+        }, 
+        {
+            "location": "/#englishchinesedanish-intepreter", 
+            "text": "", 
+            "title": "English/Chinese/Danish intepreter"
+        }, 
+        {
+            "location": "/#the-website-is-still-under-development-please-visit-my-linkedin-page-for-now", 
+            "text": "linkedin page,  Fenjuan Hu", 
+            "title": "The website is still under development, please visit my linkedin page for now!"
         }, 
         {
             "location": "/about/", 
