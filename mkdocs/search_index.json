@@ -2,48 +2,23 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Fenjuan Hu\n\n\n\n\nThe website is still under development, please visit my linkedin page for now!\n\n\nlinkedin page, \nFenjuan Hu\n\n\nEnvironmental Modeller\n\n\n\n\nEcosystem model development and application\n\n\nnutrient dynamic, phytoplankton, zooplankton, fish, macrophytes, in both water column and sediment domains\n\n\nHydrodynamic model application in both marine and freshwater systems\n\n\nDevelopment and application of state-of-art modelling frameworks\n\n\n\n\nGeographic Information System management(ArcGIS, MapInfo)\n\n\nData anayst\n\n\n\n\nData assimilation(experiment data) into model application\n\n\nData treatment and statistical analysis (Python packages, R, and Excel)\n\n\n\n\nPublic organization operator\n\n\n\n\nChairman(2015-2016) of CSSA(Chinese Students and Scholars Association)\n\n\nActivie member of Danmark-Kina organization\nWebpage\n\n\nBoard member of CHINANAO(Danish Chinese exchange organization)\n\n\n\n\nEnglish/Chinese/Danish intepreter", 
+            "text": "Welcome to My webpage\n\n\nThis is my personal webpage, build with mkdocs\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n'mkdocs gh-deploy --clean' - publish webpage on github\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
             "title": "Home"
         }, 
         {
-            "location": "/#fenjuan-hu", 
-            "text": "", 
-            "title": "Fenjuan Hu"
+            "location": "/#welcome-to-my-webpage", 
+            "text": "This is my personal webpage, build with mkdocs", 
+            "title": "Welcome to My webpage"
         }, 
         {
-            "location": "/#the-website-is-still-under-development-please-visit-my-linkedin-page-for-now", 
-            "text": "", 
-            "title": "The website is still under development, please visit my linkedin page for now!"
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.  'mkdocs gh-deploy --clean' - publish webpage on github", 
+            "title": "Commands"
         }, 
         {
-            "location": "/#linkedin-page-fenjuan-hu", 
-            "text": "", 
-            "title": "linkedin page, Fenjuan Hu"
-        }, 
-        {
-            "location": "/#environmental-modeller", 
-            "text": "Ecosystem model development and application  nutrient dynamic, phytoplankton, zooplankton, fish, macrophytes, in both water column and sediment domains  Hydrodynamic model application in both marine and freshwater systems  Development and application of state-of-art modelling frameworks", 
-            "title": "Environmental Modeller"
-        }, 
-        {
-            "location": "/#geographic-information-system-managementarcgis-mapinfo", 
-            "text": "", 
-            "title": "Geographic Information System management(ArcGIS, MapInfo)"
-        }, 
-        {
-            "location": "/#data-anayst", 
-            "text": "Data assimilation(experiment data) into model application  Data treatment and statistical analysis (Python packages, R, and Excel)", 
-            "title": "Data anayst"
-        }, 
-        {
-            "location": "/#public-organization-operator", 
-            "text": "Chairman(2015-2016) of CSSA(Chinese Students and Scholars Association)  Activie member of Danmark-Kina organization Webpage  Board member of CHINANAO(Danish Chinese exchange organization)", 
-            "title": "Public organization operator"
-        }, 
-        {
-            "location": "/#englishchinesedanish-intepreter", 
-            "text": "", 
-            "title": "English/Chinese/Danish intepreter"
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
         }, 
         {
             "location": "/about/", 
