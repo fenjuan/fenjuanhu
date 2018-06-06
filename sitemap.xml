@@ -3,16 +3,16 @@
 
     
     <url>
-     <loc>None/</loc>
-     <lastmod>2016-06-22</lastmod>
+     <loc>/</loc>
+     <lastmod>2018-06-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>None/about/</loc>
-     <lastmod>2016-06-22</lastmod>
+     <loc>/about/</loc>
+     <lastmod>2018-06-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -20,30 +20,14 @@
     
         
     <url>
-     <loc>None/restoration/biomanupulation/</loc>
-     <lastmod>2016-06-22</lastmod>
+     <loc>/modelling/fabm/</loc>
+     <lastmod>2018-06-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/restoration/nutrient/</loc>
-     <lastmod>2016-06-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>None/modelling/fabm/</loc>
-     <lastmod>2016-06-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/modelling/pclake/</loc>
-     <lastmod>2016-06-22</lastmod>
+     <loc>/modelling/pclake/</loc>
+     <lastmod>2018-06-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -52,14 +36,30 @@
     
         
     <url>
-     <loc>None/social_work/CSSA-Aarhus/</loc>
-     <lastmod>2016-06-22</lastmod>
+     <loc>/restoration/biomanupulation/</loc>
+     <lastmod>2018-06-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/social_work/Network/</loc>
-     <lastmod>2016-06-22</lastmod>
+     <loc>/restoration/nutrient/</loc>
+     <lastmod>2018-06-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/social_work/CSSA-Aarhus/</loc>
+     <lastmod>2018-06-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/social_work/Network/</loc>
+     <lastmod>2018-06-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
         

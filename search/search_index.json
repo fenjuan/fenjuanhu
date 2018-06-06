@@ -51,6 +51,26 @@
             "title": "Manu atria montis raptis mariti confudit"
         }, 
         {
+            "location": "/modelling/fabm/", 
+            "text": "Introduction to FABM\n\n\n\n\nFABM physical hosts\n\n\nFABM biogeochemical models\n\n\nDeveloping biogeochemical models in FABM\n\n\nImplementing PCLake into FABM", 
+            "title": "FABM"
+        }, 
+        {
+            "location": "/modelling/fabm/#introduction-to-fabm", 
+            "text": "FABM physical hosts  FABM biogeochemical models  Developing biogeochemical models in FABM  Implementing PCLake into FABM", 
+            "title": "Introduction to FABM"
+        }, 
+        {
+            "location": "/modelling/pclake/", 
+            "text": "Model introduction\n\n\n\n\noriginal developement\n\n\nredevelopment into FABM", 
+            "title": "PCLake"
+        }, 
+        {
+            "location": "/modelling/pclake/#model-introduction", 
+            "text": "original developement  redevelopment into FABM", 
+            "title": "Model introduction"
+        }, 
+        {
             "location": "/restoration/biomanupulation/", 
             "text": "Overview\n\n\n\n\nBackground of lake polution: population increase --\ndemand for food and ecosystem services increases--\nanthropogenic stressors on all ecosystems\n\n\nBackground of Lake restortion:freshwater ecosystems faces multistressers, and led to many biossessement, biomonitoring and restoration, and gained progress\n 3.Eutrophication will still be the major issue for coming period and the problems including turbid water, toxic cyanobacteria blooms, biodiversity loss and changes in biological community structure and ecosytem functioning( Carpenter et al., 1999, Jeppesen et al., 2001)\n\n\nInternal loadings has been taken care of in developed area but in most developing countries, reducing external loading is still a first step towards lake restoration. This step should have high priority(Cooke, 2005)\n\n\nThe resilience during lake restoration: internal P, fish community and delay of returning of macrophytes\n\n\nRemoving of zooplanktivirous and benthivorous fish is much more efficient than introduce piscivorous fish\n\n\n\n\nBiomanipulation methods\n\n\nReferences\n\n\nJeppesen, Erik, et al. \"Biomanipulation as a restoration tool to combat eutrophication: recent advances and future challenges.\" Advances in Ecological Research 47 (2012): 411-487.\n\n\n\n\nbiomanipulation case studies\n\n\nLake Fures\u00f8\n\n\nTropic lakes", 
             "title": "Biomanipulation"
@@ -84,26 +104,6 @@
             "location": "/restoration/nutrient/#measures-used-and-applied", 
             "text": "case studies  methods", 
             "title": "Measures used and applied"
-        }, 
-        {
-            "location": "/modelling/fabm/", 
-            "text": "Introduction to FABM\n\n\n\n\nFABM physical hosts\n\n\nFABM biogeochemical models\n\n\nDeveloping biogeochemical models in FABM\n\n\nImplementing PCLake into FABM", 
-            "title": "FABM"
-        }, 
-        {
-            "location": "/modelling/fabm/#introduction-to-fabm", 
-            "text": "FABM physical hosts  FABM biogeochemical models  Developing biogeochemical models in FABM  Implementing PCLake into FABM", 
-            "title": "Introduction to FABM"
-        }, 
-        {
-            "location": "/modelling/pclake/", 
-            "text": "Model introduction\n\n\n\n\noriginal developement\n\n\nredevelopment into FABM", 
-            "title": "PCLake"
-        }, 
-        {
-            "location": "/modelling/pclake/#model-introduction", 
-            "text": "original developement  redevelopment into FABM", 
-            "title": "Model introduction"
         }, 
         {
             "location": "/social_work/CSSA-Aarhus/", 
