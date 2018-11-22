@@ -1,0 +1,10 @@
+site_name: Fenjuan Hu（胡芬娟个人主页）
+site_description: "Fenjuan Hu(胡芬娟）"
+site_author: "Fenjuan Hu"
+theme: readthedocs
+pages:
+ - 'Home': 'index.md'
+ - 'I am a researcher': 'research.md'
+ - 'I am a sino-danish bridge': 'network.md'
+ - 'I am a mother' : 'family.md'
+ - 'MkDocs': 'mkdocs.md'
