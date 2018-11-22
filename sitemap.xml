@@ -1,68 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
     <url>
-     <loc>/</loc>
-     <lastmod>2018-06-06</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/about/</loc>
-     <lastmod>2018-06-06</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-        
     <url>
-     <loc>/modelling/fabm/</loc>
-     <lastmod>2018-06-06</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/modelling/pclake/</loc>
-     <lastmod>2018-06-06</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
-     <loc>/restoration/biomanupulation/</loc>
-     <lastmod>2018-06-06</lastmod>
+     <loc>None</loc>
+     <lastmod>2018-11-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    <url>
-     <loc>/restoration/nutrient/</loc>
-     <lastmod>2018-06-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>/social_work/CSSA-Aarhus/</loc>
-     <lastmod>2018-06-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/social_work/Network/</loc>
-     <lastmod>2018-06-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
 </urlset>
